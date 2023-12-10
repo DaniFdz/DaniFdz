@@ -15,9 +15,11 @@
     ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
     ![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
     ![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+    ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
     ![C++](https://camo.githubusercontent.com/891c1fd9d2ab2adf1053e8514f469b94049769ccd9d2765c8e06e9c1b6da1b8c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f632b2b2d2532333030353939432e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d63253242253242266c6f676f436f6c6f723d7768697465)
     ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=whit)
     ![GNU BASH](https://img.shields.io/badge/GNU%20Bash-000000?style=for-the-badge&logo=GNU%20Bash&logoColor=white)
+    ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
 <br>   
     
@@ -26,6 +28,7 @@
     ![Django](https://img.shields.io/badge/Django%20-092e20.svg?style=for-the-badge&logo=django&logoColor=white)
     ![React](https://img.shields.io/badge/React%20-11bdef.svg?style=for-the-badge&logo=react&logoColor=black)
     ![Flutter](https://img.shields.io/badge/Flutter%20-0f013c.svg?style=for-the-badge&logo=flutter&logoColor=white)
+    ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 
 
 <br>
@@ -36,7 +39,7 @@
     ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
     ![NeoVim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
     ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-    ![Ubuntu](https://img.shields.io/badge/ubuntu-fff?style=for-the-badge&logo=ubuntu&logoColor=orange) 
+    ![NixOS](https://img.shields.io/badge/NixOS-5277C3?style=for-the-badge&logo=nixos&logoColor=white) 
 
 <br>
 
