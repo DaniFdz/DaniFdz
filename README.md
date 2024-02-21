@@ -50,13 +50,18 @@
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 
 <!-- Better GitHub stats provided by https://github.com/jstrieb/github-stats -->
-<div align="center">
-  <img src="https://github-readme-stats-ecru-mu.vercel.app/api?username=DaniFdz&show_icons=true&rank_icon=github&theme=aura&title_color=e1dad4&text_color=e1dad4&icon_color=e1dad4&include_all_commits=true&hide_border=true" alt="GitHub Stats">
 
-  <img src="https://github-readme-stats-ecru-mu.vercel.app/api/top-langs/?username=DaniFdz&layout=compact&langs_count=14&theme=aura&title_color=e1dad4&text_color=e1dad4&icon_color=e1dad4&include_all_commits=true&hide_border=true" alt="GitHub Top Languages Stats">
+<div>
+  <a href="https://github-readme-stats-ecru-mu.vercel.app/api/top-langs/?username=DaniFdz&layout=compact&langs_count=14&theme=aura&title_color=e1dad4&text_color=e1dad4&icon_color=e1dad4&include_all_commits=true&hide_border=true">
+    <img src="https://github-readme-stats-ecru-mu.vercel.app/api/top-langs/?username=DaniFdz&layout=compact&langs_count=14&theme=aura&title_color=e1dad4&text_color=e1dad4&icon_color=e1dad4&include_all_commits=true&hide_border=true" alt="GitHub Top Languages Stats">
+  </a>
+  <a href="https://github-readme-stats-ecru-mu.vercel.app/api?username=DaniFdz&show_icons=true&rank_icon=github&theme=aura&title_color=e1dad4&text_color=e1dad4&icon_color=e1dad4&include_all_commits=true&hide_border=true">
+        <img src="https://github-readme-stats-ecru-mu.vercel.app/api?username=DaniFdz&show_icons=true&rank_icon=github&theme=aura&title_color=e1dad4&text_color=e1dad4&icon_color=e1dad4&include_all_commits=true&hide_border=true" alt="GitHub Stats">
+  </a>
 </div>
-
-  <img src="https://github-readme-stats-ecru-mu.vercel.app/api/wakatime?username=DaniFdz&layout=compact&langs_count=14&theme=aura&title_color=e1dad4&text_color=e1dad4&icon_color=e1dad4&hide_border=true&include_all_commits=true&border_color=true&custom_title=WakaTime%20Time%20Spent%20since%20January%202024" alt="GitHub WakaTime Stats">
+<a href="https://github-readme-stats-ecru-mu.vercel.app/api/wakatime?username=DaniFdz&layout=compact&langs_count=14&theme=aura&title_color=e1dad4&text_color=e1dad4&icon_color=e1dad4&hide_border=true&include_all_commits=true&border_color=true&custom_title=WakaTime%20Time%20Spent%20since%20January%202024">
+        <img src="https://github-readme-stats-ecru-mu.vercel.app/api/wakatime?username=DaniFdz&layout=compact&langs_count=14&theme=aura&title_color=e1dad4&text_color=e1dad4&icon_color=e1dad4&hide_border=true&include_all_commits=true&border_color=true&custom_title=WakaTime%20Time%20Spent%20since%20January%202024" alt="GitHub WakaTime Stats">
+</a>
 
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
