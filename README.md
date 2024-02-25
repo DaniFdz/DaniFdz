@@ -52,15 +52,15 @@
 <!-- Better GitHub stats provided by https://github.com/jstrieb/github-stats -->
 
 <div>
-  <a href="https://github-readme-stats-ecru-mu.vercel.app/api/top-langs/?username=DaniFdz&layout=compact&langs_count=14&theme=aura&title_color=e1dad4&text_color=e1dad4&icon_color=e1dad4&include_all_commits=true&hide_border=true">
-    <img src="https://github-readme-stats-ecru-mu.vercel.app/api/top-langs/?username=DaniFdz&layout=compact&langs_count=14&theme=aura&title_color=e1dad4&text_color=e1dad4&icon_color=e1dad4&include_all_commits=true&hide_border=true" alt="GitHub Top Languages Stats">
+  <a href="https://github-readme-stats-chi-lovat-26.vercel.app/api/top-langs/?username=DaniFdz&layout=compact&langs_count=14&theme=aura&title_color=e1dad4&text_color=e1dad4&icon_color=e1dad4&include_all_commits=true&hide_border=true">
+    <img src="https://github-readme-stats-chi-lovat-26.vercel.app/api/top-langs/?username=DaniFdz&layout=compact&langs_count=14&theme=aura&title_color=e1dad4&text_color=e1dad4&icon_color=e1dad4&include_all_commits=true&hide_border=true" alt="GitHub Top Languages Stats">
   </a>
-  <a href="https://github-readme-stats-ecru-mu.vercel.app/api?username=DaniFdz&show_icons=true&rank_icon=github&theme=aura&title_color=e1dad4&text_color=e1dad4&icon_color=e1dad4&include_all_commits=true&hide_border=true">
-        <img src="https://github-readme-stats-ecru-mu.vercel.app/api?username=DaniFdz&show_icons=true&rank_icon=github&theme=aura&title_color=e1dad4&text_color=e1dad4&icon_color=e1dad4&include_all_commits=true&hide_border=true" alt="GitHub Stats">
+  <a href="https://github-readme-stats-chi-lovat-26.vercel.app/api?username=DaniFdz&show_icons=true&rank_icon=github&theme=aura&title_color=e1dad4&text_color=e1dad4&icon_color=e1dad4&include_all_commits=true&hide_border=true">
+        <img src="https://github-readme-stats-chi-lovat-26.vercel.app/api?username=DaniFdz&show_icons=true&rank_icon=github&theme=aura&title_color=e1dad4&text_color=e1dad4&icon_color=e1dad4&include_all_commits=true&hide_border=true" alt="GitHub Stats">
   </a>
 </div>
-<a href="https://github-readme-stats-ecru-mu.vercel.app/api/wakatime?username=DaniFdz&layout=compact&langs_count=14&theme=aura&title_color=e1dad4&text_color=e1dad4&icon_color=e1dad4&hide_border=true&include_all_commits=true&border_color=true&custom_title=WakaTime%20Time%20Spent%20since%20January%202024">
-        <img src="https://github-readme-stats-ecru-mu.vercel.app/api/wakatime?username=DaniFdz&layout=compact&langs_count=14&theme=aura&title_color=e1dad4&text_color=e1dad4&icon_color=e1dad4&hide_border=true&include_all_commits=true&border_color=true&custom_title=WakaTime%20Time%20Spent%20since%20January%202024" alt="GitHub WakaTime Stats">
+<a href="https://github-readme-stats-chi-lovat-26.vercel.app/api/wakatime?username=DaniFdz&layout=compact&langs_count=14&theme=aura&title_color=e1dad4&text_color=e1dad4&icon_color=e1dad4&hide_border=true&include_all_commits=true&border_color=true&custom_title=WakaTime%20Time%20Spent%20since%20January%202024">
+        <img src="https://github-readme-stats-chi-lovat-26.vercel.app/api/wakatime?username=DaniFdz&layout=compact&langs_count=14&theme=aura&title_color=e1dad4&text_color=e1dad4&icon_color=e1dad4&hide_border=true&include_all_commits=true&border_color=true&custom_title=WakaTime%20Time%20Spent%20since%20January%202024" alt="GitHub WakaTime Stats">
 </a>
 
 <br>
