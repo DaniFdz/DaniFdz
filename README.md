@@ -52,8 +52,8 @@
 <!-- Better GitHub stats provided by https://github.com/jstrieb/github-stats -->
 
 <div>
-  <a href="https://github-readme-stats-chi-lovat-26.vercel.app/api/top-langs/?username=DaniFdz&layout=compact&langs_count=14&theme=aura&title_color=e1dad4&text_color=e1dad4&icon_color=e1dad4&include_all_commits=true&hide_border=true">
-    <img src="https://github-readme-stats-chi-lovat-26.vercel.app/api/top-langs/?username=DaniFdz&layout=compact&langs_count=14&theme=aura&title_color=e1dad4&text_color=e1dad4&icon_color=e1dad4&include_all_commits=true&hide_border=true" alt="GitHub Top Languages Stats">
+  <a href="https://github-readme-stats-chi-lovat-26.vercel.app/api/top-langs/?username=DaniFdz&layout=compact&langs_count=14&theme=aura&title_color=e1dad4&text_color=e1dad4&icon_color=e1dad4&include_all_commits=true&hide_border=true&hide=jupyter%20notebook">
+    <img src="https://github-readme-stats-chi-lovat-26.vercel.app/api/top-langs/?username=DaniFdz&layout=compact&langs_count=14&theme=aura&title_color=e1dad4&text_color=e1dad4&icon_color=e1dad4&include_all_commits=true&hide_border=true&hide=jupyter%20notebook" alt="GitHub Top Languages Stats">
   </a>
   <a href="https://github-readme-stats-chi-lovat-26.vercel.app/api?username=DaniFdz&show_icons=true&rank_icon=github&theme=aura&title_color=e1dad4&text_color=e1dad4&icon_color=e1dad4&include_all_commits=true&hide_border=true">
         <img src="https://github-readme-stats-chi-lovat-26.vercel.app/api?username=DaniFdz&show_icons=true&rank_icon=github&theme=aura&title_color=e1dad4&text_color=e1dad4&icon_color=e1dad4&include_all_commits=true&hide_border=true" alt="GitHub Stats">
